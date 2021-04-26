@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "youggyswapi", "youggyswapi\youggyswapi.csproj", "{A3894CF9-0A87-4806-BAD5-96174D4A8AED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouggySWLib", "..\..\youggyswcore\YouggySWLib\YouggySWLib.csproj", "{5FB194A1-47B1-4BFA-8DC2-2EAC3419EE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3894CF9-0A87-4806-BAD5-96174D4A8AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3894CF9-0A87-4806-BAD5-96174D4A8AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3894CF9-0A87-4806-BAD5-96174D4A8AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3894CF9-0A87-4806-BAD5-96174D4A8AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB194A1-47B1-4BFA-8DC2-2EAC3419EE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB194A1-47B1-4BFA-8DC2-2EAC3419EE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB194A1-47B1-4BFA-8DC2-2EAC3419EE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB194A1-47B1-4BFA-8DC2-2EAC3419EE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9047A04C-E054-49C1-B60E-8DB3BA809708}
+	EndGlobalSection
+EndGlobal
